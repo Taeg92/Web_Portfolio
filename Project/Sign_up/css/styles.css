@@ -1,0 +1,78 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#titleName {
+    color: IndianRed;
+    text-align: center;
+    margin: 20px;
+}
+body {
+    background-color: white
+}
+.sign-up-form {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 500px;
+    background-image: url("/images/backgroundimg.jpg");
+    background-size: cover;
+    background-position: center bottom;
+}
+
+.sign-up-form input {
+    background: none;
+    width: 460px;
+    display: block;
+    padding: 10px;
+    border: none;
+    border-bottom: 2px solid rgb(240, 240, 240);
+}
+
+.text-block {
+    margin: 10px auto;
+    width: 500px;
+    margin-bottom: 20px;
+}
+.text-block p {
+    color: mediumorchid;
+}
+
+#submit_btn:hover {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.50);
+}
+
+.site:hover {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.50);
+}
+
+#submit_btn {
+    border-radius: 40px;
+    margin: 40px 0;
+    border: 1px solid DeepPink;
+    background: none;
+}
+.site {
+    margin: 20px 0;
+    line-height: 45px;
+    height: 45px;
+    text-align: center;
+    border-radius: 40px;
+    border: 1px solid DeepPink;
+    background: none;
+    word-spacing: 20px;
+}
+.site a {
+    font-size: 10px;
+    text-decoration: none;
+    color: white;
+}
+input::placeholder {
+    color: white;
+}
+input {
+    color: white;
+}
