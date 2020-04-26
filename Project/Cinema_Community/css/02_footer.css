@@ -1,0 +1,17 @@
+/* 02_footer.css */
+/* 아래에 코드를 작성해 주세요. */
+
+footer {
+    background-color: rgb(105, 105, 105);
+    height: 60px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}

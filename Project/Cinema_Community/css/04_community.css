@@ -1,0 +1,45 @@
+/* 04_community.css */
+/* 아래에 코드를 작성해 주세요. */
+
+.main {
+    margin-top: 130px;
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.titleline {
+    width: 100px;
+    border: 3px solid rgb(254, 191, 9);
+    margin-bottom: 100px;
+}
+
+.record {
+    text-align: right;
+}
+
+.time {
+    margin-left: 10px;
+    color: rgba(117, 116, 116, 0.664);
+}
+.post {
+    margin-bottom: 50px;
+    border-bottom: 3px solid rgb(211, 211, 211);
+    padding-bottom: 20px;
+}
+
+.subline {
+    margin-top: 20px;
+    width: 720px;
+}
+
+.movie h2 {
+    font-size: 20px;
+}
+section {
+    margin-bottom: 100px;
+}

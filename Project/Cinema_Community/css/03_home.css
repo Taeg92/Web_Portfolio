@@ -1,0 +1,71 @@
+/* 03_home.css */
+/* 아래에 코드를 작성해 주세요. */
+
+body {
+    font-family: sans-serif;
+}
+.hero-header {
+    display: block;
+    margin-top: 80px;
+    background-image: url("../images/header.jpg");
+    background-size: cover;
+    background-position: center top;
+    height: 500px;
+    line-height: 500px;
+    text-align: center;
+}
+.hero-header .title {
+    display: inline-block;
+    line-height: normal;
+    vertical-align: middle;
+}
+.title p {
+    padding: 0;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cover{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.cover .info {
+    display: inline-block;
+    margin-bottom: 50px;
+    font-size: 40px;
+    font-weight: 700;
+}
+.skills {
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    text-align: center; 
+}
+.skills .icon {
+    float: left;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.icon img {
+    display: block;
+}
+
+button {
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(73, 110, 247);
+    padding: 15px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+button:hover {
+    background-color: rgb(10, 56, 224);
+}
