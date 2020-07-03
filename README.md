@@ -1,3 +1,3 @@
 # Web_Portfolio
 
-> Front end Web Portfolio
+> Front-end Web Portfolio
